@@ -1,0 +1,1572 @@
+[
+ {
+  "plate": "01",
+  "name": "Adana",
+  "region": "akdeniz",
+  "population": 2270,
+  "districts": [
+   "Aladağ",
+   "Ceyhan",
+   "Çukurova",
+   "Feke",
+   "İmamoğlu",
+   "Karaisalı",
+   "Karataş",
+   "Kozan",
+   "Pozantı",
+   "Saimbeyli",
+   "Sarıçam",
+   "Seyhan",
+   "Tufanbeyli",
+   "Yumurtalık",
+   "Yüreğir"
+  ]
+ },
+ {
+  "plate": "02",
+  "name": "Adıyaman",
+  "region": "guneydogu",
+  "population": 610,
+  "districts": [
+   "Besni",
+   "Çelikhan",
+   "Gerger",
+   "Gölbaşı",
+   "Kahta",
+   "Samsat",
+   "Sincik",
+   "Tut"
+  ]
+ },
+ {
+  "plate": "03",
+  "name": "Afyonkarahisar",
+  "region": "ege",
+  "population": 750,
+  "districts": [
+   "Başmakçı",
+   "Bayat",
+   "Bolvadin",
+   "Çay",
+   "Çobanlar",
+   "Dazkırı",
+   "Dinar",
+   "Emirdağ",
+   "Evciler",
+   "Hocalar",
+   "İhsaniye",
+   "İscehisar",
+   "Kızılören",
+   "Sandıklı",
+   "Sinanpaşa",
+   "Sultandağı",
+   "Şuhut"
+  ]
+ },
+ {
+  "plate": "04",
+  "name": "Ağrı",
+  "region": "dogu",
+  "population": 510,
+  "districts": [
+   "Diyadin",
+   "Doğubayazıt",
+   "Eleşkirt",
+   "Hamur",
+   "Patnos",
+   "Taşlıçay",
+   "Tutak"
+  ]
+ },
+ {
+  "plate": "05",
+  "name": "Amasya",
+  "region": "karadeniz",
+  "population": 340,
+  "districts": [
+   "Göynücek",
+   "Gümüşhacıköy",
+   "Hamamözü",
+   "Merzifon",
+   "Suluova",
+   "Taşova"
+  ]
+ },
+ {
+  "plate": "06",
+  "name": "Ankara",
+  "region": "ic-anadolu",
+  "population": 5800,
+  "districts": [
+   "Akyurt",
+   "Altındağ",
+   "Ayaş",
+   "Bala",
+   "Beypazarı",
+   "Çamlıdere",
+   "Çankaya",
+   "Çubuk",
+   "Elmadağ",
+   "Etimesgut",
+   "Evren",
+   "Gölbaşı",
+   "Güdül",
+   "Haymana",
+   "Kahramankazan",
+   "Kalecik",
+   "Keçiören",
+   "Kızılcahamam",
+   "Mamak",
+   "Nallıhan",
+   "Polatlı",
+   "Pursaklar",
+   "Sincan",
+   "Şereflikoçhisar",
+   "Yenimahalle"
+  ]
+ },
+ {
+  "plate": "07",
+  "name": "Antalya",
+  "region": "akdeniz",
+  "population": 2700,
+  "districts": [
+   "Akseki",
+   "Aksu",
+   "Alanya",
+   "Demre",
+   "Döşemealtı",
+   "Elmalı",
+   "Finike",
+   "Gazipaşa",
+   "Gündoğmuş",
+   "İbradı",
+   "Kaş",
+   "Kemer",
+   "Kepez",
+   "Konyaaltı",
+   "Korkuteli",
+   "Kumluca",
+   "Manavgat",
+   "Muratpaşa",
+   "Serik"
+  ]
+ },
+ {
+  "plate": "08",
+  "name": "Artvin",
+  "region": "karadeniz",
+  "population": 170,
+  "districts": [
+   "Ardanuç",
+   "Arhavi",
+   "Borçka",
+   "Hopa",
+   "Kemalpaşa",
+   "Murgul",
+   "Şavşat",
+   "Yusufeli"
+  ]
+ },
+ {
+  "plate": "09",
+  "name": "Aydın",
+  "region": "ege",
+  "population": 1160,
+  "districts": [
+   "Bozdoğan",
+   "Buharkent",
+   "Çine",
+   "Didim",
+   "Efeler",
+   "Germencik",
+   "İncirliova",
+   "Karacasu",
+   "Karpuzlu",
+   "Koçarlı",
+   "Köşk",
+   "Kuşadası",
+   "Kuyucak",
+   "Nazilli",
+   "Söke",
+   "Sultanhisar",
+   "Yenipazar"
+  ]
+ },
+ {
+  "plate": "10",
+  "name": "Balıkesir",
+  "region": "marmara",
+  "population": 1270,
+  "districts": [
+   "Altıeylül",
+   "Ayvalık",
+   "Balya",
+   "Bandırma",
+   "Bigadiç",
+   "Burhaniye",
+   "Dursunbey",
+   "Edremit",
+   "Erdek",
+   "Gömeç",
+   "Gönen",
+   "Havran",
+   "İvrindi",
+   "Karesi",
+   "Kepsut",
+   "Manyas",
+   "Marmara",
+   "Savaştepe",
+   "Sındırgı",
+   "Susurluk"
+  ]
+ },
+ {
+  "plate": "11",
+  "name": "Bilecik",
+  "region": "marmara",
+  "population": 230,
+  "districts": [
+   "Bozüyük",
+   "Gölpazarı",
+   "İnhisar",
+   "Osmaneli",
+   "Pazaryeri",
+   "Söğüt",
+   "Yenipazar"
+  ]
+ },
+ {
+  "plate": "12",
+  "name": "Bingöl",
+  "region": "dogu",
+  "population": 285,
+  "districts": [
+   "Adaklı",
+   "Genç",
+   "Karlıova",
+   "Kiğı",
+   "Solhan",
+   "Yayladere",
+   "Yedisu"
+  ]
+ },
+ {
+  "plate": "13",
+  "name": "Bitlis",
+  "region": "dogu",
+  "population": 360,
+  "districts": [
+   "Adilcevaz",
+   "Ahlat",
+   "Güroymak",
+   "Hizan",
+   "Mutki",
+   "Tatvan"
+  ]
+ },
+ {
+  "plate": "14",
+  "name": "Bolu",
+  "region": "karadeniz",
+  "population": 320,
+  "districts": [
+   "Dörtdivan",
+   "Gerede",
+   "Göynük",
+   "Kıbrıscık",
+   "Mengen",
+   "Mudurnu",
+   "Seben",
+   "Yeniçağa"
+  ]
+ },
+ {
+  "plate": "15",
+  "name": "Burdur",
+  "region": "akdeniz",
+  "population": 275,
+  "districts": [
+   "Ağlasun",
+   "Altınyayla",
+   "Bucak",
+   "Çavdır",
+   "Çeltikçi",
+   "Gölhisar",
+   "Karamanlı",
+   "Kemer",
+   "Tefenni",
+   "Yeşilova"
+  ]
+ },
+ {
+  "plate": "16",
+  "name": "Bursa",
+  "region": "marmara",
+  "population": 3200,
+  "districts": [
+   "Büyükorhan",
+   "Gemlik",
+   "Gürsu",
+   "Harmancık",
+   "İnegöl",
+   "İznik",
+   "Karacabey",
+   "Keles",
+   "Kestel",
+   "Mudanya",
+   "Mustafakemalpaşa",
+   "Nilüfer",
+   "Orhaneli",
+   "Orhangazi",
+   "Osmangazi",
+   "Yenişehir",
+   "Yıldırım"
+  ]
+ },
+ {
+  "plate": "17",
+  "name": "Çanakkale",
+  "region": "marmara",
+  "population": 560,
+  "districts": [
+   "Ayvacık",
+   "Bayramiç",
+   "Biga",
+   "Bozcaada",
+   "Çan",
+   "Eceabat",
+   "Ezine",
+   "Gelibolu",
+   "Gökçeada",
+   "Lapseki",
+   "Yenice"
+  ]
+ },
+ {
+  "plate": "18",
+  "name": "Çankırı",
+  "region": "ic-anadolu",
+  "population": 200,
+  "districts": [
+   "Atkaracalar",
+   "Bayramören",
+   "Çerkeş",
+   "Eldivan",
+   "Ilgaz",
+   "Kızılırmak",
+   "Korgun",
+   "Kurşunlu",
+   "Orta",
+   "Şabanözü",
+   "Yapraklı"
+  ]
+ },
+ {
+  "plate": "19",
+  "name": "Çorum",
+  "region": "karadeniz",
+  "population": 525,
+  "districts": [
+   "Alaca",
+   "Bayat",
+   "Boğazkale",
+   "Dodurga",
+   "İskilip",
+   "Kargı",
+   "Laçin",
+   "Mecitözü",
+   "Oğuzlar",
+   "Ortaköy",
+   "Osmancık",
+   "Sungurlu",
+   "Uğurludağ"
+  ]
+ },
+ {
+  "plate": "20",
+  "name": "Denizli",
+  "region": "ege",
+  "population": 1060,
+  "districts": [
+   "Acıpayam",
+   "Babadağ",
+   "Baklan",
+   "Bekilli",
+   "Beyağaç",
+   "Bozkurt",
+   "Buldan",
+   "Çal",
+   "Çameli",
+   "Çardak",
+   "Çivril",
+   "Güney",
+   "Honaz",
+   "Kale",
+   "Merkezefendi",
+   "Pamukkale",
+   "Sarayköy",
+   "Serinhisar",
+   "Tavas"
+  ]
+ },
+ {
+  "plate": "21",
+  "name": "Diyarbakır",
+  "region": "guneydogu",
+  "population": 1820,
+  "districts": [
+   "Bağlar",
+   "Bismil",
+   "Çermik",
+   "Çınar",
+   "Çüngüş",
+   "Dicle",
+   "Eğil",
+   "Ergani",
+   "Hani",
+   "Hazro",
+   "Kayapınar",
+   "Kocaköy",
+   "Kulp",
+   "Lice",
+   "Silvan",
+   "Sur",
+   "Yenişehir"
+  ]
+ },
+ {
+  "plate": "22",
+  "name": "Edirne",
+  "region": "marmara",
+  "population": 415,
+  "districts": [
+   "Enez",
+   "Havsa",
+   "İpsala",
+   "Keşan",
+   "Lalapaşa",
+   "Meriç",
+   "Süloğlu",
+   "Uzunköprü"
+  ]
+ },
+ {
+  "plate": "23",
+  "name": "Elazığ",
+  "region": "dogu",
+  "population": 600,
+  "districts": [
+   "Ağın",
+   "Alacakaya",
+   "Arıcak",
+   "Baskil",
+   "Karakoçan",
+   "Keban",
+   "Kovancılar",
+   "Maden",
+   "Palu",
+   "Sivrice"
+  ]
+ },
+ {
+  "plate": "24",
+  "name": "Erzincan",
+  "region": "dogu",
+  "population": 240,
+  "districts": [
+   "Çayırlı",
+   "İliç",
+   "Kemah",
+   "Kemaliye",
+   "Otlukbeli",
+   "Refahiye",
+   "Tercan",
+   "Üzümlü"
+  ]
+ },
+ {
+  "plate": "25",
+  "name": "Erzurum",
+  "region": "dogu",
+  "population": 750,
+  "districts": [
+   "Aşkale",
+   "Aziziye",
+   "Çat",
+   "Hınıs",
+   "Horasan",
+   "İspir",
+   "Karaçoban",
+   "Karayazı",
+   "Köprüköy",
+   "Narman",
+   "Oltu",
+   "Olur",
+   "Palandöken",
+   "Pasinler",
+   "Pazaryolu",
+   "Şenkaya",
+   "Tekman",
+   "Tortum",
+   "Uzundere",
+   "Yakutiye"
+  ]
+ },
+ {
+  "plate": "26",
+  "name": "Eskişehir",
+  "region": "ic-anadolu",
+  "population": 910,
+  "districts": [
+   "Alpu",
+   "Beylikova",
+   "Çifteler",
+   "Günyüzü",
+   "Han",
+   "İnönü",
+   "Mahmudiye",
+   "Mihalgazi",
+   "Mihalıççık",
+   "Odunpazarı",
+   "Sarıcakaya",
+   "Seyitgazi",
+   "Sivrihisar",
+   "Tepebaşı"
+  ]
+ },
+ {
+  "plate": "27",
+  "name": "Gaziantep",
+  "region": "guneydogu",
+  "population": 2160,
+  "districts": [
+   "Araban",
+   "İslahiye",
+   "Karkamış",
+   "Nizip",
+   "Nurdağı",
+   "Oğuzeli",
+   "Şahinbey",
+   "Şehitkamil",
+   "Yavuzeli"
+  ]
+ },
+ {
+  "plate": "28",
+  "name": "Giresun",
+  "region": "karadeniz",
+  "population": 450,
+  "districts": [
+   "Alucra",
+   "Bulancak",
+   "Çamoluk",
+   "Çanakçı",
+   "Dereli",
+   "Doğankent",
+   "Espiye",
+   "Eynesil",
+   "Görele",
+   "Güce",
+   "Keşap",
+   "Piraziz",
+   "Şebinkarahisar",
+   "Tirebolu",
+   "Yağlıdere"
+  ]
+ },
+ {
+  "plate": "29",
+  "name": "Gümüşhane",
+  "region": "karadeniz",
+  "population": 145,
+  "districts": [
+   "Kelkit",
+   "Köse",
+   "Kürtün",
+   "Şiran",
+   "Torul"
+  ]
+ },
+ {
+  "plate": "30",
+  "name": "Hakkari",
+  "region": "dogu",
+  "population": 275,
+  "districts": [
+   "Çukurca",
+   "Derecik",
+   "Şemdinli",
+   "Yüksekova"
+  ]
+ },
+ {
+  "plate": "31",
+  "name": "Hatay",
+  "region": "akdeniz",
+  "population": 1540,
+  "districts": [
+   "Altınözü",
+   "Antakya",
+   "Arsuz",
+   "Belen",
+   "Defne",
+   "Dörtyol",
+   "Erzin",
+   "Hassa",
+   "İskenderun",
+   "Kırıkhan",
+   "Kumlu",
+   "Payas",
+   "Reyhanlı",
+   "Samandağ",
+   "Yayladağı"
+  ]
+ },
+ {
+  "plate": "32",
+  "name": "Isparta",
+  "region": "akdeniz",
+  "population": 445,
+  "districts": [
+   "Aksu",
+   "Atabey",
+   "Eğirdir",
+   "Gelendost",
+   "Gönen",
+   "Keçiborlu",
+   "Senirkent",
+   "Sütçüler",
+   "Şarkikaraağaç",
+   "Uluborlu",
+   "Yalvaç",
+   "Yenişarbademli"
+  ]
+ },
+ {
+  "plate": "33",
+  "name": "Mersin",
+  "region": "akdeniz",
+  "population": 1920,
+  "districts": [
+   "Akdeniz",
+   "Anamur",
+   "Aydıncık",
+   "Bozyazı",
+   "Çamlıyayla",
+   "Erdemli",
+   "Gülnar",
+   "Mezitli",
+   "Mut",
+   "Silifke",
+   "Tarsus",
+   "Toroslar",
+   "Yenişehir"
+  ]
+ },
+ {
+  "plate": "34",
+  "name": "İstanbul",
+  "region": "marmara",
+  "population": 15650,
+  "districts": [
+   "Adalar",
+   "Arnavutköy",
+   "Ataşehir",
+   "Avcılar",
+   "Bağcılar",
+   "Bahçelievler",
+   "Bakırköy",
+   "Başakşehir",
+   "Bayrampaşa",
+   "Beşiktaş",
+   "Beykoz",
+   "Beylikdüzü",
+   "Beyoğlu",
+   "Büyükçekmece",
+   "Çatalca",
+   "Çekmeköy",
+   "Esenler",
+   "Esenyurt",
+   "Eyüpsultan",
+   "Fatih",
+   "Gaziosmanpaşa",
+   "Güngören",
+   "Kadıköy",
+   "Kağıthane",
+   "Kartal",
+   "Küçükçekmece",
+   "Maltepe",
+   "Pendik",
+   "Sancaktepe",
+   "Sarıyer",
+   "Silivri",
+   "Sultanbeyli",
+   "Sultangazi",
+   "Şile",
+   "Şişli",
+   "Tuzla",
+   "Ümraniye",
+   "Üsküdar",
+   "Zeytinburnu"
+  ]
+ },
+ {
+  "plate": "35",
+  "name": "İzmir",
+  "region": "ege",
+  "population": 4480,
+  "districts": [
+   "Aliağa",
+   "Balçova",
+   "Bayındır",
+   "Bayraklı",
+   "Bergama",
+   "Beydağ",
+   "Bornova",
+   "Buca",
+   "Çeşme",
+   "Çiğli",
+   "Dikili",
+   "Foça",
+   "Gaziemir",
+   "Güzelbahçe",
+   "Karabağlar",
+   "Karaburun",
+   "Karşıyaka",
+   "Kemalpaşa",
+   "Kınık",
+   "Kiraz",
+   "Konak",
+   "Menderes",
+   "Menemen",
+   "Narlıdere",
+   "Ödemiş",
+   "Seferihisar",
+   "Selçuk",
+   "Tire",
+   "Torbalı",
+   "Urla"
+  ]
+ },
+ {
+  "plate": "36",
+  "name": "Kars",
+  "region": "dogu",
+  "population": 275,
+  "districts": [
+   "Akyaka",
+   "Arpaçay",
+   "Digor",
+   "Kağızman",
+   "Sarıkamış",
+   "Selim",
+   "Susuz"
+  ]
+ },
+ {
+  "plate": "37",
+  "name": "Kastamonu",
+  "region": "karadeniz",
+  "population": 385,
+  "districts": [
+   "Abana",
+   "Ağlı",
+   "Araç",
+   "Azdavay",
+   "Bozkurt",
+   "Cide",
+   "Çatalzeytin",
+   "Daday",
+   "Devrekani",
+   "Doğanyurt",
+   "Hanönü",
+   "İhsangazi",
+   "İnebolu",
+   "Küre",
+   "Pınarbaşı",
+   "Seydiler",
+   "Şenpazar",
+   "Taşköprü",
+   "Tosya"
+  ]
+ },
+ {
+  "plate": "38",
+  "name": "Kayseri",
+  "region": "ic-anadolu",
+  "population": 1440,
+  "districts": [
+   "Akkışla",
+   "Bünyan",
+   "Develi",
+   "Felahiye",
+   "Hacılar",
+   "İncesu",
+   "Kocasinan",
+   "Melikgazi",
+   "Özvatan",
+   "Pınarbaşı",
+   "Sarıoğlan",
+   "Sarız",
+   "Talas",
+   "Tomarza",
+   "Yahyalı",
+   "Yeşilhisar"
+  ]
+ },
+ {
+  "plate": "39",
+  "name": "Kırklareli",
+  "region": "marmara",
+  "population": 370,
+  "districts": [
+   "Babaeski",
+   "Demirköy",
+   "Kofçaz",
+   "Lüleburgaz",
+   "Pehlivanköy",
+   "Pınarhisar",
+   "Vize"
+  ]
+ },
+ {
+  "plate": "40",
+  "name": "Kırşehir",
+  "region": "ic-anadolu",
+  "population": 245,
+  "districts": [
+   "Akçakent",
+   "Akpınar",
+   "Boztepe",
+   "Çiçekdağı",
+   "Kaman",
+   "Mucur"
+  ]
+ },
+ {
+  "plate": "41",
+  "name": "Kocaeli",
+  "region": "marmara",
+  "population": 2100,
+  "districts": [
+   "Başiskele",
+   "Çayırova",
+   "Darıca",
+   "Derince",
+   "Dilovası",
+   "Gebze",
+   "Gölcük",
+   "İzmit",
+   "Kandıra",
+   "Karamürsel",
+   "Kartepe",
+   "Körfez"
+  ]
+ },
+ {
+  "plate": "42",
+  "name": "Konya",
+  "region": "ic-anadolu",
+  "population": 2300,
+  "districts": [
+   "Ahırlı",
+   "Akören",
+   "Akşehir",
+   "Altınekin",
+   "Beyşehir",
+   "Bozkır",
+   "Cihanbeyli",
+   "Çeltik",
+   "Çumra",
+   "Derbent",
+   "Derebucak",
+   "Doğanhisar",
+   "Emirgazi",
+   "Ereğli",
+   "Güneysınır",
+   "Hadim",
+   "Halkapınar",
+   "Hüyük",
+   "Ilgın",
+   "Kadınhanı",
+   "Karapınar",
+   "Karatay",
+   "Kulu",
+   "Meram",
+   "Sarayönü",
+   "Selçuklu",
+   "Seydişehir",
+   "Taşkent",
+   "Tuzlukçu",
+   "Yalıhüyük",
+   "Yunak"
+  ]
+ },
+ {
+  "plate": "43",
+  "name": "Kütahya",
+  "region": "ege",
+  "population": 580,
+  "districts": [
+   "Altıntaş",
+   "Aslanapa",
+   "Çavdarhisar",
+   "Domaniç",
+   "Dumlupınar",
+   "Emet",
+   "Gediz",
+   "Hisarcık",
+   "Pazarlar",
+   "Simav",
+   "Şaphane",
+   "Tavşanlı"
+  ]
+ },
+ {
+  "plate": "44",
+  "name": "Malatya",
+  "region": "dogu",
+  "population": 740,
+  "districts": [
+   "Akçadağ",
+   "Arapgir",
+   "Arguvan",
+   "Battalgazi",
+   "Darende",
+   "Doğanşehir",
+   "Doğanyol",
+   "Hekimhan",
+   "Kale",
+   "Kuluncak",
+   "Pütürge",
+   "Yazıhan",
+   "Yeşilyurt"
+  ]
+ },
+ {
+  "plate": "45",
+  "name": "Manisa",
+  "region": "ege",
+  "population": 1470,
+  "districts": [
+   "Ahmetli",
+   "Akhisar",
+   "Alaşehir",
+   "Demirci",
+   "Gölmarmara",
+   "Gördes",
+   "Kırkağaç",
+   "Köprübaşı",
+   "Kula",
+   "Salihli",
+   "Sarıgöl",
+   "Saruhanlı",
+   "Selendi",
+   "Soma",
+   "Şehzadeler",
+   "Turgutlu",
+   "Yunusemre"
+  ]
+ },
+ {
+  "plate": "46",
+  "name": "Kahramanmaraş",
+  "region": "akdeniz",
+  "population": 1120,
+  "districts": [
+   "Afşin",
+   "Andırın",
+   "Çağlayancerit",
+   "Dulkadiroğlu",
+   "Ekinözü",
+   "Elbistan",
+   "Göksun",
+   "Nurhak",
+   "Onikişubat",
+   "Pazarcık",
+   "Türkoğlu"
+  ]
+ },
+ {
+  "plate": "47",
+  "name": "Mardin",
+  "region": "guneydogu",
+  "population": 870,
+  "districts": [
+   "Artuklu",
+   "Dargeçit",
+   "Derik",
+   "Kızıltepe",
+   "Mazıdağı",
+   "Midyat",
+   "Nusaybin",
+   "Ömerli",
+   "Savur",
+   "Yeşilli"
+  ]
+ },
+ {
+  "plate": "48",
+  "name": "Muğla",
+  "region": "ege",
+  "population": 1050,
+  "districts": [
+   "Bodrum",
+   "Dalaman",
+   "Datça",
+   "Fethiye",
+   "Kavaklıdere",
+   "Köyceğiz",
+   "Marmaris",
+   "Menteşe",
+   "Milas",
+   "Ortaca",
+   "Seydikemer",
+   "Ula",
+   "Yatağan"
+  ]
+ },
+ {
+  "plate": "49",
+  "name": "Muş",
+  "region": "dogu",
+  "population": 400,
+  "districts": [
+   "Bulanık",
+   "Hasköy",
+   "Korkut",
+   "Malazgirt",
+   "Varto"
+  ]
+ },
+ {
+  "plate": "50",
+  "name": "Nevşehir",
+  "region": "ic-anadolu",
+  "population": 310,
+  "districts": [
+   "Acıgöl",
+   "Avanos",
+   "Derinkuyu",
+   "Gülşehir",
+   "Hacıbektaş",
+   "Kozaklı",
+   "Ürgüp"
+  ]
+ },
+ {
+  "plate": "51",
+  "name": "Niğde",
+  "region": "ic-anadolu",
+  "population": 365,
+  "districts": [
+   "Altunhisar",
+   "Bor",
+   "Çamardı",
+   "Çiftlik",
+   "Ulukışla"
+  ]
+ },
+ {
+  "plate": "52",
+  "name": "Ordu",
+  "region": "karadeniz",
+  "population": 760,
+  "districts": [
+   "Akkuş",
+   "Altınordu",
+   "Aybastı",
+   "Çamaş",
+   "Çatalpınar",
+   "Çaybaşı",
+   "Fatsa",
+   "Gölköy",
+   "Gülyalı",
+   "Gürgentepe",
+   "İkizce",
+   "Kabadüz",
+   "Kabataş",
+   "Korgan",
+   "Kumru",
+   "Mesudiye",
+   "Perşembe",
+   "Ulubey",
+   "Ünye"
+  ]
+ },
+ {
+  "plate": "53",
+  "name": "Rize",
+  "region": "karadeniz",
+  "population": 345,
+  "districts": [
+   "Ardeşen",
+   "Çamlıhemşin",
+   "Çayeli",
+   "Derepazarı",
+   "Fındıklı",
+   "Güneysu",
+   "Hemşin",
+   "İkizdere",
+   "İyidere",
+   "Kalkandere",
+   "Pazar"
+  ]
+ },
+ {
+  "plate": "54",
+  "name": "Sakarya",
+  "region": "marmara",
+  "population": 1100,
+  "districts": [
+   "Adapazarı",
+   "Akyazı",
+   "Arifiye",
+   "Erenler",
+   "Ferizli",
+   "Geyve",
+   "Hendek",
+   "Karapürçek",
+   "Karasu",
+   "Kaynarca",
+   "Kocaali",
+   "Pamukova",
+   "Sapanca",
+   "Serdivan",
+   "Söğütlü",
+   "Taraklı"
+  ]
+ },
+ {
+  "plate": "55",
+  "name": "Samsun",
+  "region": "karadeniz",
+  "population": 1370,
+  "districts": [
+   "19 Mayıs",
+   "Alaçam",
+   "Asarcık",
+   "Atakum",
+   "Ayvacık",
+   "Bafra",
+   "Canik",
+   "Çarşamba",
+   "Havza",
+   "İlkadım",
+   "Kavak",
+   "Ladik",
+   "Salıpazarı",
+   "Tekkeköy",
+   "Terme",
+   "Vezirköprü",
+   "Yakakent"
+  ]
+ },
+ {
+  "plate": "56",
+  "name": "Siirt",
+  "region": "guneydogu",
+  "population": 330,
+  "districts": [
+   "Baykan",
+   "Eruh",
+   "Kurtalan",
+   "Pervari",
+   "Şirvan",
+   "Tillo"
+  ]
+ },
+ {
+  "plate": "57",
+  "name": "Sinop",
+  "region": "karadeniz",
+  "population": 220,
+  "districts": [
+   "Ayancık",
+   "Boyabat",
+   "Dikmen",
+   "Durağan",
+   "Erfelek",
+   "Gerze",
+   "Saraydüzü",
+   "Türkeli"
+  ]
+ },
+ {
+  "plate": "58",
+  "name": "Sivas",
+  "region": "ic-anadolu",
+  "population": 640,
+  "districts": [
+   "Akıncılar",
+   "Altınyayla",
+   "Divriği",
+   "Doğanşar",
+   "Gemerek",
+   "Gölova",
+   "Gürün",
+   "Hafik",
+   "İmranlı",
+   "Kangal",
+   "Koyulhisar",
+   "Suşehri",
+   "Şarkışla",
+   "Ulaş",
+   "Yıldızeli",
+   "Zara"
+  ]
+ },
+ {
+  "plate": "59",
+  "name": "Tekirdağ",
+  "region": "marmara",
+  "population": 1170,
+  "districts": [
+   "Çerkezköy",
+   "Çorlu",
+   "Ergene",
+   "Hayrabolu",
+   "Kapaklı",
+   "Malkara",
+   "Marmaraereğlisi",
+   "Muratlı",
+   "Saray",
+   "Süleymanpaşa",
+   "Şarköy"
+  ]
+ },
+ {
+  "plate": "60",
+  "name": "Tokat",
+  "region": "karadeniz",
+  "population": 600,
+  "districts": [
+   "Almus",
+   "Artova",
+   "Başçiftlik",
+   "Erbaa",
+   "Niksar",
+   "Pazar",
+   "Reşadiye",
+   "Sulusaray",
+   "Turhal",
+   "Yeşilyurt",
+   "Zile"
+  ]
+ },
+ {
+  "plate": "61",
+  "name": "Trabzon",
+  "region": "karadeniz",
+  "population": 820,
+  "districts": [
+   "Akçaabat",
+   "Araklı",
+   "Arsin",
+   "Beşikdüzü",
+   "Çarşıbaşı",
+   "Çaykara",
+   "Dernekpazarı",
+   "Düzköy",
+   "Hayrat",
+   "Köprübaşı",
+   "Maçka",
+   "Of",
+   "Ortahisar",
+   "Sürmene",
+   "Şalpazarı",
+   "Tonya",
+   "Vakfıkebir",
+   "Yomra"
+  ]
+ },
+ {
+  "plate": "62",
+  "name": "Tunceli",
+  "region": "dogu",
+  "population": 90,
+  "districts": [
+   "Çemişgezek",
+   "Hozat",
+   "Mazgirt",
+   "Nazımiye",
+   "Ovacık",
+   "Pertek",
+   "Pülümür"
+  ]
+ },
+ {
+  "plate": "63",
+  "name": "Şanlıurfa",
+  "region": "guneydogu",
+  "population": 2170,
+  "districts": [
+   "Akçakale",
+   "Birecik",
+   "Bozova",
+   "Ceylanpınar",
+   "Eyyübiye",
+   "Halfeti",
+   "Haliliye",
+   "Harran",
+   "Hilvan",
+   "Karaköprü",
+   "Siverek",
+   "Suruç",
+   "Viranşehir"
+  ]
+ },
+ {
+  "plate": "64",
+  "name": "Uşak",
+  "region": "ege",
+  "population": 375,
+  "districts": [
+   "Banaz",
+   "Eşme",
+   "Karahallı",
+   "Sivaslı",
+   "Ulubey"
+  ]
+ },
+ {
+  "plate": "65",
+  "name": "Van",
+  "region": "dogu",
+  "population": 1130,
+  "districts": [
+   "Bahçesaray",
+   "Başkale",
+   "Çaldıran",
+   "Çatak",
+   "Edremit",
+   "Erciş",
+   "Gevaş",
+   "Gürpınar",
+   "İpekyolu",
+   "Muradiye",
+   "Özalp",
+   "Saray",
+   "Tuşba"
+  ]
+ },
+ {
+  "plate": "66",
+  "name": "Yozgat",
+  "region": "ic-anadolu",
+  "population": 420,
+  "districts": [
+   "Akdağmadeni",
+   "Aydıncık",
+   "Boğazlıyan",
+   "Çandır",
+   "Çayıralan",
+   "Çekerek",
+   "Kadışehri",
+   "Saraykent",
+   "Sarıkaya",
+   "Sorgun",
+   "Şefaatli",
+   "Yenifakılı",
+   "Yerköy"
+  ]
+ },
+ {
+  "plate": "67",
+  "name": "Zonguldak",
+  "region": "karadeniz",
+  "population": 590,
+  "districts": [
+   "Alaplı",
+   "Çaycuma",
+   "Devrek",
+   "Ereğli",
+   "Gökçebey",
+   "Kilimli",
+   "Kozlu"
+  ]
+ },
+ {
+  "plate": "68",
+  "name": "Aksaray",
+  "region": "ic-anadolu",
+  "population": 435,
+  "districts": [
+   "Ağaçören",
+   "Eskil",
+   "Gülağaç",
+   "Güzelyurt",
+   "Ortaköy",
+   "Sarıyahşi",
+   "Sultanhanı"
+  ]
+ },
+ {
+  "plate": "69",
+  "name": "Bayburt",
+  "region": "karadeniz",
+  "population": 85,
+  "districts": [
+   "Aydıntepe",
+   "Demirözü"
+  ]
+ },
+ {
+  "plate": "70",
+  "name": "Karaman",
+  "region": "ic-anadolu",
+  "population": 260,
+  "districts": [
+   "Ayrancı",
+   "Başyayla",
+   "Ermenek",
+   "Kazımkarabekir",
+   "Sarıveliler"
+  ]
+ },
+ {
+  "plate": "71",
+  "name": "Kırıkkale",
+  "region": "ic-anadolu",
+  "population": 280,
+  "districts": [
+   "Bahşılı",
+   "Balışeyh",
+   "Çelebi",
+   "Delice",
+   "Karakeçili",
+   "Keskin",
+   "Sulakyurt",
+   "Yahşihan"
+  ]
+ },
+ {
+  "plate": "72",
+  "name": "Batman",
+  "region": "guneydogu",
+  "population": 630,
+  "districts": [
+   "Beşiri",
+   "Gercüş",
+   "Hasankeyf",
+   "Kozluk",
+   "Sason"
+  ]
+ },
+ {
+  "plate": "73",
+  "name": "Şırnak",
+  "region": "guneydogu",
+  "population": 560,
+  "districts": [
+   "Beytüşşebap",
+   "Cizre",
+   "Güçlükonak",
+   "İdil",
+   "Silopi",
+   "Uludere"
+  ]
+ },
+ {
+  "plate": "74",
+  "name": "Bartın",
+  "region": "karadeniz",
+  "population": 205,
+  "districts": [
+   "Amasra",
+   "Kurucaşile",
+   "Ulus"
+  ]
+ },
+ {
+  "plate": "75",
+  "name": "Ardahan",
+  "region": "dogu",
+  "population": 92,
+  "districts": [
+   "Çıldır",
+   "Damal",
+   "Göle",
+   "Hanak",
+   "Posof"
+  ]
+ },
+ {
+  "plate": "76",
+  "name": "Iğdır",
+  "region": "dogu",
+  "population": 205,
+  "districts": [
+   "Aralık",
+   "Karakoyunlu",
+   "Tuzluca"
+  ]
+ },
+ {
+  "plate": "77",
+  "name": "Yalova",
+  "region": "marmara",
+  "population": 300,
+  "districts": [
+   "Altınova",
+   "Armutlu",
+   "Çınarcık",
+   "Çiftlikköy",
+   "Termal"
+  ]
+ },
+ {
+  "plate": "78",
+  "name": "Karabük",
+  "region": "karadeniz",
+  "population": 250,
+  "districts": [
+   "Eflani",
+   "Eskipazar",
+   "Ovacık",
+   "Safranbolu",
+   "Yenice"
+  ]
+ },
+ {
+  "plate": "79",
+  "name": "Kilis",
+  "region": "guneydogu",
+  "population": 155,
+  "districts": [
+   "Elbeyli",
+   "Musabeyli",
+   "Polateli"
+  ]
+ },
+ {
+  "plate": "80",
+  "name": "Osmaniye",
+  "region": "akdeniz",
+  "population": 560,
+  "districts": [
+   "Bahçe",
+   "Düziçi",
+   "Hasanbeyli",
+   "Kadirli",
+   "Sumbas",
+   "Toprakkale"
+  ]
+ },
+ {
+  "plate": "81",
+  "name": "Düzce",
+  "region": "karadeniz",
+  "population": 410,
+  "districts": [
+   "Akçakoca",
+   "Cumayeri",
+   "Çilimli",
+   "Gölyaka",
+   "Gümüşova",
+   "Kaynaşlı",
+   "Yığılca"
+  ]
+ }
+]

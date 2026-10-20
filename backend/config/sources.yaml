@@ -1,0 +1,31 @@
+# Public RSS feeds. Add a source by appending an entry; set `enabled: false` to skip one.
+# Only headlines, short summaries and links are stored; every headline links back to its source.
+sources:
+  - name: Haberler.com
+    url: https://rss.haberler.com/rss.asp?kategori=yerel
+  - name: Anadolu Ajansı
+    url: https://www.aa.com.tr/tr/rss/default?cat=guncel
+  - name: TRT Haber
+    url: https://www.trthaber.com/turkiye_articles.rss
+  - name: TRT Haber
+    url: https://www.trthaber.com/gundem_articles.rss
+  - name: NTV
+    url: https://www.ntv.com.tr/turkiye.rss
+  - name: Hürriyet
+    url: https://www.hurriyet.com.tr/rss/gundem
+  - name: Sabah
+    url: https://www.sabah.com.tr/rss/gundem.xml
+  - name: Sabah
+    url: https://www.sabah.com.tr/rss/yasam.xml
+  - name: Milliyet
+    url: https://www.milliyet.com.tr/rss/rssnew/gundemrss.xml
+  - name: CNN Türk
+    url: https://www.cnnturk.com/feed/rss/turkiye/news
+  - name: Habertürk
+    url: https://www.haberturk.com/rss/kategori/gundem.xml
+  - name: Sözcü
+    url: https://www.sozcu.com.tr/feeds-rss-category-gundem
+  - name: Cumhuriyet
+    url: https://www.cumhuriyet.com.tr/rss/1
+  - name: BBC Türkçe
+    url: https://feeds.bbci.co.uk/turkce/rss.xml
